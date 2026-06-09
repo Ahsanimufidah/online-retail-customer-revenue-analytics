@@ -1,0 +1,21 @@
+# Environment and credentials
+.env
+*.env
+config.py
+secrets.*
+credentials.*
+connection_string.txt
+
+# Python / notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Large temporary files
+*.zip
